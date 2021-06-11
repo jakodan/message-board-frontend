@@ -1,0 +1,11 @@
+.logoutform {
+    text-align: right;
+    margin-top: 5px;
+    margin-right:5px;
+}
+
+.loginform {
+    justify-content: right;
+    text-align: right;
+    margin-top: 5px;
+}

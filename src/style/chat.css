@@ -1,0 +1,12 @@
+.chat {
+    margin: 5px;
+    background-color: rgb(242, 255, 220);
+    max-width: 514px;
+}
+
+.chatfeed {
+    width: 500px;
+    height: 350px;
+    overflow-y: scroll;
+    border: 1px solid rgb(242, 255, 220);
+}

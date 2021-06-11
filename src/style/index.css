@@ -1,0 +1,29 @@
+.messageboard {
+    margin: 0 auto;
+}
+
+.messagefeed {
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-top: 25px;
+    height: 500px;
+    overflow-y: scroll;
+    border: 1px solid black;
+}
+
+.messagefeedcontainer {
+    width: 600px;
+    margin: 0 auto;
+}
+.messageform{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.messageinput {
+    width: 85%;
+}
+
+.messagepostbutton {
+    width: 15%;
+}
